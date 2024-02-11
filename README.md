@@ -5,7 +5,7 @@
 
 Un moyen plus simple de démarrer votre serveur forge sur mac.
 
-Configuration requise : 
+## Configuration requise
 
   - JDK 21
   - JRE 8
