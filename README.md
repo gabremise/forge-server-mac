@@ -13,4 +13,4 @@ Un moyen plus simple de démarrer votre serveur forge sur mac.
 
 ## Intérèt
 
-AU lieu d'ouvrir les fichiers shell avec un éditeur de texte et retaper des commandes sur votre terminal à chaque fois que vous lancez votre serveur, vous pouvez simplement double cliquer sur start et le tour est joué.
+Au lieu d'ouvrir les fichiers shell avec un éditeur de texte et retaper des commandes sur votre terminal à chaque fois que vous lancez votre serveur, vous pouvez simplement double cliquer sur start et le tour est joué.
